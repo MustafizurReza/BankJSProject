@@ -1,0 +1,40 @@
+body{
+    padding: 100px;
+}
+#container h1{
+    text-align: center;
+}
+#login-area{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    margin: 40px;
+    padding: 50px;
+}
+.input{
+    margin: 10px;
+}
+#account{
+    display: none;
+}
+.statement{
+    color: white;
+    margin: 10px 40px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    text-align: center;
+}
+#deposit{
+    background-color: indigo;
+}
+#withdraw{
+    background-color: salmon;
+}
+#balance{
+    background-color: brown;
+}
+.update{
+    box-shadow: 10px 10px 40px gray;
+    margin: 40px 40px;
+    padding: 50px;
+    border-radius: 19px;
+}
